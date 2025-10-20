@@ -57,9 +57,13 @@ BlockSorter 프로젝트는 컨베이어벨트를 통해 들어오는 나무 블
 ## 코드 구조
 BlockSorter/
 │
+
 ├─ RobotArm_camera_calibration # 카메라 캘리브레이션 데이터 (camera_matrix.npy, dist_coeffs.npy)
+
 ├─ YOLOv8/best.pt # YOLOv8 학습 모델
+
 ├─ Project2_code.py # 프로젝트 메인 코드
+
 └─ RobotArm_coordination # 카메라 좌표 → 로봇 암 좌표 변환 코드
 
 ---
