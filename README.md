@@ -80,6 +80,8 @@ BlockSorter/
 - 직관적 제어 및 높은 커스터마이징 가능
 
 ---
+## 시연 영상
+https://youtu.be/UQKhv60RsAk
 
 ## 참고
 - 카메라 좌표 → 로봇 좌표 변환 공식은 실제 수집한 데이터(`cx, cy`, `x, y, z, rx, ry, rz`) 기반 선형 회귀 모델로 생성
